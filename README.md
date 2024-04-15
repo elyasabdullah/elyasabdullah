@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Profile</title>
 </head>
 <body>
   <h1>Hi there! 👋</h1>
@@ -24,10 +21,10 @@
   </ul>
   
   <h2>Portfolio</h2>
-  <p>Check out my <a href="your-portfolio-website-url">portfolio website</a> to see some of my projects and learn more about me.</p>
+  <p>Check out my <a href="https://elyasabdullah.netlify.app/">portfolio website</a> to see some of my projects and learn more about me.</p>
   
   <h2>LinkedIn</h2>
-  <p>Let's connect on <a href="your-linkedin-profile-url">LinkedIn</a>! Feel free to reach out to me for collaboration opportunities or to chat about anything related to web development.</p>
+  <p>Let's connect on <a href="https://ye.linkedin.com/in/elyas-abdullah-abb9b1282">LinkedIn</a>! Feel free to reach out to me for collaboration opportunities or to chat about anything related to web development.</p>
   
   <h2>Get in Touch</h2>
   <p>If you have any questions or would like to discuss a project, feel free to reach out to me. I'm always open to new opportunities and collaborations!</p>
