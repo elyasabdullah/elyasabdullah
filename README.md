@@ -26,7 +26,7 @@
   <h2>LinkedIn</h2>
   <p>Let's connect on <a href="https://ye.linkedin.com/in/elyas-abdullah-abb9b1282">LinkedIn</a>! Feel free to reach out to me for collaboration opportunities or to chat about anything related to web development.</p>
   <h2>My Last App</h2>
-  <p>Let's connect on <a href="https://simplify-me.vercel.app/">LinkedIn</a></p>
+  <p>Let's connect on <a href="https://simplify-me.vercel.app/">SimplifyMe</a></p>
   
   <h2>Get in Touch</h2>
   <p>If you have any questions or would like to discuss a project, feel free to reach out to me. I'm always open to new opportunities and collaborations!</p>
