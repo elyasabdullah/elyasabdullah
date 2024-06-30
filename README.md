@@ -13,11 +13,11 @@
   <h2>Skills</h2>
   <ul>
     <li>Languages: JavaScript, TypeScript</li>
-    <li>Frontend: React, Redux Toolkit, RTK Query, React Hooks, CSS4, HTML5, SASS, Styled-Components, Responsive Web Design</li>
-    <li>Backend: Node.js, Express.js</li>
-    <li>Database: MongoDB</li>
-    <li>Version Control: Git, GitHub</li>
-    <li>Other: Object Oriented Programming</li>
+    <li>Frontend: Nextjs, React, Redux Toolkit, RTK Query, React Hooks, MUI, Tailwind, SASS, Styled-Components, CSS, HTML</li>
+    <li>Backend: Nextjs, Node.js, Express.js</li>
+    <li>Database: MongoDB, SQL</li>
+    <li>Version Control: Git, GitHub, Bitbucket</li>
+    <li>Other: Computer Science</li>
   </ul>
   
   <h2>Portfolio</h2>
