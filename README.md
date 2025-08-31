@@ -19,9 +19,7 @@
     <li>Version Control: Git, GitHub, Bitbucket</li>
     <li>Other: Computer Science</li>
   </ul>
-  
-  <h2>Portfolio</h2>
-  <p>Check out my <a href="https://elyasabdullah.netlify.app/">portfolio website</a> to see some of my projects and learn more about me.</p>
+
   
   <h2>LinkedIn</h2>
   <p>Let's connect on <a href="https://ye.linkedin.com/in/elyas-abdullah-abb9b1282">LinkedIn</a>! Feel free to reach out to me for collaboration opportunities or to chat about anything related to web development.</p>
