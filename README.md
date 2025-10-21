@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Elyas%20Fahmi%20Ahmed%20Abdullah&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20%26%20Next.js%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications+%F0%9F%92%BB;React.js+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;GraphQL+%26+Apollo+Client+Expert+%F0%9F%93%A1)](https://git.io/typing-svg)
   
