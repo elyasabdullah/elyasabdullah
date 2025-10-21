@@ -23,18 +23,36 @@ const elyas = {
   location: "Sana'a, Yemen 🇾🇪",
   current: "Frontend Developer @ Obeikan Digital Solutions",
   education: "B.Sc. Computer Science | Sana'a University | GPA: 89.78%",
+
   focus: ["React.js", "Next.js", "TypeScript", "GraphQL"],
+
   passions: [
     "Building scalable web applications",
     "Clean code & architecture",
     "Performance optimization",
     "Seamless user experiences",
   ],
+
   currentlyWorking:
     "Designing modular frontend architectures in monorepo systems",
   funFact: "I bridge the gap between development and DevOps! 🚀",
 };
 ```
+
+### 🎯 My Focus Areas:
+
+<div align="center">
+
+`React.js` • `Next.js` • `TypeScript` • `GraphQL`
+
+</div>
+
+### 💜 What Drives Me:
+
+- ⚡ Building scalable web applications
+- 🎨 Clean code & architecture
+- 🚀 Performance optimization
+- ✨ Seamless user experiences
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -109,23 +127,6 @@ const elyas = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elyasabdullah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyasabdullah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyasabdullah&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elyasabdullah&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=667eea" alt="Contribution Graph" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🎯 Core Competencies
 
 <table align="center">
@@ -136,7 +137,7 @@ const elyas = {
       <sub>& Teamwork</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/problem-solving.png" width="60"/><br/>
+      <img src="https://img.icons8.com/fluency/96/idea.png" width="60"/><br/>
       <strong>Problem</strong><br/>
       <sub>Solving</sub>
     </td>
@@ -158,7 +159,7 @@ const elyas = {
       <sub>Learning</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/time-management.png" width="60"/><br/>
+      <img src="https://img.icons8.com/fluency/96/clock.png" width="60"/><br/>
       <strong>Time</strong><br/>
       <sub>Management</sub>
     </td>
@@ -168,7 +169,7 @@ const elyas = {
       <sub>& Flexibility</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/responsibility.png" width="60"/><br/>
+      <img src="https://img.icons8.com/fluency/96/hand.png" width="60"/><br/>
       <strong>Ownership</strong><br/>
       <sub>& Accountability</sub>
     </td>
@@ -229,7 +230,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 **"Passionate about creating exceptional web experiences that make a difference"**
 
-![Visitor Count](https://profile-counter.glitch.me/elyasabdullah/count.svg)
+<img src="https://komarev.com/ghpvc/?username=elyasabdullah&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
